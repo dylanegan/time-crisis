@@ -1,4 +1,3 @@
-time-crisis
-===========
+![Time Crisis](https://github.com/dylanegan/time-crisis/raw/master/time-crisis.jpg)
 
-Locations of Time Crisis arcade machines
+Trying to track down Time Crisis arcade machines around the world. You know, important shit.
